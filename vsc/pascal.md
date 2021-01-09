@@ -33,7 +33,7 @@
 
 4. Nakopírovat soubor [launch.json](launch.json) do podadresáře .vscode
 
-![](images/task_download.png)
+![](images/launch_download.png)
 
 _Pokud se vyskytne problém se znakovou sadou, nastavte ji na Central European (CP 852) (u Windows)_
 
