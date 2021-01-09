@@ -6,7 +6,7 @@
 ## Instalace Free Pascalu (https://www.freepascal.org/download.html)
 ![](images/freepascal.png)
 
-## RozÁ°˝en° pro Visual Studio Code
+## Roz≈°√≠en√≠ pro Visual Studio Code
 ![](images/extension_icon.png)
 
 ### Pascal
@@ -18,18 +18,18 @@
 ### GDB Debugger - Beyond
 ![](images/gdb_debugger_extension.png)
 
-## Zaloßen° projektu
-1. Otev˝°t VSC, p˝et†hnout novou sloßku projektu do VSC
+## Zalo≈æen√≠ projektu
+1. Otev≈ô√≠t VSC, p≈ôet√°hnout novou slo≈æku projektu do VSC
 V sekci FPC PROJECTS zvolit Create New Project.
 
 ![](images/create_project.png)
 
-2. Vytvo˝it task pro kompilaci projektu (debug) - uvedena [uk†zka](tasks.json), vytvo˝° se vÁak s†m.
+2. Vytvo≈ôit task pro kompilaci projektu (debug) - uvedena [uk√°zka](tasks.json), vytvo≈ôit se v≈°ak s√°m.
 
 
-3. Nakop°rovat soubor [launch.json](launch.json) do podadres†˝e .vscode
+3. Nakop√≠rovat soubor [launch.json](launch.json) do podadres√°≈ôe .vscode
 
-_Pokud se vyskytne problÇm se znakovou sadou, nastavte ji na Central Europian (CP 852) (u Windows)_
+_Pokud se vyskytne probl√©m se znakovou sadou, nastavte ji na Central Europian (CP 852) (u Windows)_
 
 ![](images/encoding_position.png)
 ![](images/encoding_selection.png)
