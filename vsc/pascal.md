@@ -21,14 +21,15 @@
 ![](images/gdb_debugger_extension.png)
 
 ## Založení projektu
-1. Otevřít VSC, přetáhnout novou složku projektu do VSC
-V sekci FPC PROJECTS zvolit Create New Project.
+1. Otevřít VSC, a přetáhnout sem novou složku projektu, nebo kliknout tlačítko OPEN FOLDER
+
+2. V sekci FPC PROJECTS zvolit Create New Project.
 
 ![](images/create_project.png)
 
-2. Vytvořit task pro kompilaci projektu (debug) - uvedena [ukázka](tasks.json), vytvořit se však sám.
+3. Vytvořit task pro kompilaci projektu (debug) - uvedena [ukázka](tasks.json), vytvoří se však sám.
 
-3. Nakopírovat soubor [launch.json](launch.json) do podadresáře .vscode
+4. Nakopírovat soubor [launch.json](launch.json) do podadresáře .vscode
 
 _Pokud se vyskytne problém se znakovou sadou, nastavte ji na Central Europian (CP 852) (u Windows)_
 
