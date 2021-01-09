@@ -24,10 +24,9 @@ V sekci FPC PROJECTS zvolit Create New Project.
 
 ![](images/create_project.png)
 
-2. Vytvoýit task pro kompilaci projektu (debug) - uvedena [uk zka](tasks.json), vytvoý¡ se vçak s m.
+2. Vytvoýit task pro kompilaci projektu (debug) - uvedena uk zka, vytvoý¡ se vçak s m.
 
-
-3. Nakop¡rovat soubor [launch.json](launch.json) do podadres ýe .vscode
+3. Nakop¡rovat soubor launch.json do podadres ýe .vscode
 
 _Pokud se vyskytne probl‚m se znakovou sadou, nastavte ji na Central Europian (CP 852) (u Windows)_
 
