@@ -40,3 +40,4 @@ _Pokud se vyskytne problém se znakovou sadou, nastavte ji na Central European (
 ![](images/encoding_selection.png)
 
 ![](images/encoding.png)
+
