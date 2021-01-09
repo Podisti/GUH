@@ -35,6 +35,8 @@
 
 ![](images/launch_download.png)
 
+![](images/save_place.png)
+
 _Pokud se vyskytne problém se znakovou sadou, nastavte ji na Central European (CP 852) (u Windows)_
 
 ![](images/encoding_position.png)
