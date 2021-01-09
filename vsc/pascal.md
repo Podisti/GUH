@@ -36,6 +36,8 @@
 
 ![](images/save_place.png)
 
+Svůj program můžete vytvářet v main.lpr. Každý program by měl mít svou vlastní složku. Jako jméno je vhodné zanechat main.lpr, jinak je v tasks.json potřeba změnit název otevíraného souboru a v launch.json cestu k němu.
+
 ### Doporučuju si launch.json a tasks.json uložit zvlášť do složky jako podklad pro další projekty
 
 _Pokud se vyskytne problém se znakovou sadou, nastavte ji na Central European (CP 852) (u Windows)_
