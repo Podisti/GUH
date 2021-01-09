@@ -32,10 +32,11 @@
 ![](images/buildtask.png)
 
 4. Nakopírovat soubor [launch.json](launch.json) do podadresáře .vscode
-
-![](images/launch_download.png)
+(stahování: při otevření launch kliknu na RAW a poté, co se otevře kliknu pravým a uložím do .vscode)
 
 ![](images/save_place.png)
+
+### Doporučuju si launch.json a tasks.json uložit zvlášť do složky jako podklad pro další projekty
 
 _Pokud se vyskytne problém se znakovou sadou, nastavte ji na Central European (CP 852) (u Windows)_
 
