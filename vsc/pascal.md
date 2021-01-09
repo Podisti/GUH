@@ -7,6 +7,8 @@
 ![](images/freepascal.png)
 
 ## Rozšíření pro Visual Studio Code
+ Otevřete VSC a klikněte na ikonku rozšíření (viz. obrázek). najděte tři následující rozšíření a klikněte install.
+
 ![](images/extension_icon.png)
 
 ### Pascal
