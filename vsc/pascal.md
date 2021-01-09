@@ -6,7 +6,7 @@
 ## Instalace Free Pascalu (https://www.freepascal.org/download.html)
 ![](images/freepascal.png)
 
-## Rozšíení pro Visual Studio Code
+## Rozšíření pro Visual Studio Code
 ![](images/extension_icon.png)
 
 ### Pascal
@@ -26,11 +26,12 @@ V sekci FPC PROJECTS zvolit Create New Project.
 
 2. Vytvořit task pro kompilaci projektu (debug) - uvedena [ukázka](tasks.json), vytvořit se však sám.
 
-
 3. Nakopírovat soubor [launch.json](launch.json) do podadresáře .vscode
 
 _Pokud se vyskytne problém se znakovou sadou, nastavte ji na Central Europian (CP 852) (u Windows)_
 
 ![](images/encoding_position.png)
+
 ![](images/encoding_selection.png)
+
 ![](images/encoding.png)
