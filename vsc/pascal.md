@@ -1,0 +1,1 @@
+# Instalace Pascalu do VSC
