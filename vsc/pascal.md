@@ -29,6 +29,8 @@
 
 3. Vytvořit task pro kompilaci projektu (debug) - uvedena [ukázka](tasks.json), vytvoří se však sám.
 
+![](images/build_task.png)
+
 4. Nakopírovat soubor [launch.json](launch.json) do podadresáře .vscode
 
 _Pokud se vyskytne problém se znakovou sadou, nastavte ji na Central European (CP 852) (u Windows)_
