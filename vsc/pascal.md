@@ -21,7 +21,7 @@
 ![](images/gdb_debugger_extension.png)
 
 ## Založení projektu
-1. Otevřít VSC, a přetáhnout sem novou složku projektu, nebo kliknout tlačítko **Open Folder**.
+1. Otevřít VSC a přetáhnout sem novou složku projektu, nebo kliknout tlačítko **Open Folder**.
 > Název složky nesmí obsahovat diakritiku a mezery.
 
 2. V sekci FPC PROJECTS zvolit **Create New Project**.
